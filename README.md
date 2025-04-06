@@ -17,7 +17,7 @@ To install `sha1_cracker`, you need to have [Rust](https://www.rust-lang.org/) i
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/sha1_cracker.git
+git clone https://github.com/dsddevs/hash_cracker_rust.git
 
 # Navigate to the project directory
 cd sha1_cracker
